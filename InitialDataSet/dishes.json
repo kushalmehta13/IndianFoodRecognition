@@ -1,0 +1,1452 @@
+//source : Wikipedia https://en.wikipedia.org/wiki/List_of_Indian_dishes
+[{
+  "name": "Aloo baingan masala",
+  "description": "Diced potatoes and brinjal stuffed with spices in curry",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Aloo gobi (also Pakistani and Nepali dish)",
+  "description": "Cauliflower with potatoes saut\u00e9ed with garam masala, turmeric, sometimes kalonji and curry leaves.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Aloo ki tikki",
+  "description": "Patties of potato mixed with some vegetables fried",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Aloo matar",
+  "description": "Potatoes and peas in curry",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Aloo methi",
+  "description": "Methi leaves and potatoes nicely flavoured. Potato, fresh Methi leaves.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Aloo shimla mirch",
+  "description": "Green capsicum with potatoes sauted with cumin seeds, onions, tomatoes, ginger-garlic paste, turmeric, red chilli powder and garam masala",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Amriti with rabdi",
+  "description": "A dessert",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Amritsari fish",
+  "description": "Fried fish made with curry, ginger and garlic",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Amritsari kulcha",
+  "description": "Type of bread",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Baati",
+  "description": "Ghee (clarified butter), wheat flour",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Bhatura",
+  "description": "Bread. All-purpose flour",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Bhindi masala",
+  "description": "Okra saut\u00e9ed with onions and tomatoes",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Biryani",
+  "description": "Main or side dish. Mixed rice dish, optional spices, optional vegetables, meats or seafood. Can be served with plain yogurt.",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Butter chicken",
+  "description": "Also known as murgh mahal",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Chaat",
+  "description": "Street food usually containing a potato patty fried in oil, topped with sweet yogurt, and other sauces, spices",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Chana masala",
+  "description": "Chickpeas of the Chana type in tomato based sauce.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Chapati",
+  "description": "Bread. Whole wheat flour",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Chicken razala",
+  "description": "Bhopali style chicken cooked in a rich gravy with mint",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Chicken Tikka",
+  "description": "Chicken with spices served on a skewer",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Chicken Tikka masala",
+  "description": "Chicken marinated in a Yogurt tomato sauce. Creamy texture.",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Chole bhature",
+  "description": "Main course. Chick peas, assorted spices, wheat flour and yeast for bhatura.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Daal baati churma",
+  "description": "Rajasthani special",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Daal puri",
+  "description": "Stuffed dal in parathas",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Dal makhani (kali dal)",
+  "description": "Main course. A typical type of lentil is used.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Dal fara",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Dal",
+  "description": "Assorted types of lentils, such as toor, urad, chana, masoor dal",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Dal fry with tadka",
+  "description": "Typical north Indian tadka",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Dum aloo",
+  "description": "Potatoes cooked in curry",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Poha",
+  "description": "Specialty from Madhya Pradesh. Common snack in central part of India. Flattended rice, potato, turmeric.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Fara",
+  "description": "Stuffed Lentil Dumplings",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "French bean aloo",
+  "description": "Diced French beans with potatoes cooked with chopped onions, tomatoes sauted with cumin seeds, green chillies and garam masala",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Gajar ka halwa",
+  "description": "A sweet dish native to U.P. \/ Punjab. Carrot, Milk, Ghee, Cashew.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Gajar matar aloo",
+  "description": "Diced red\/orange carrots and potatoes sauted with black mustard leaves, garnished with ground black pepper powder and lemon juice",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Gobhi matar",
+  "description": "Cauliflower in a tomato sauce",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Imarti",
+  "description": "A spherically meshed sweet dish from North India made up of batter from moong dal dipped in sugary syrup",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Hari mutter ka nimona (green peas daal)",
+  "description": "Typical north Indian tadka",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Jalebi",
+  "description": "A North Indian twisted noodle like sweet dish dipped in sugary syrup",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Jaleba",
+  "description": "Vegetarian",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Kachori",
+  "description": "Rajasthani \/ Marwari special",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Kadai paneer",
+  "description": "Paneer and green peppers in tomato gravy",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Kadhi pakoda",
+  "description": "Gram flour with yogurt with gramflour fried balls",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Karela bharta",
+  "description": "Bitter gourd\/melon",
+  "veg non-veg": "Usually vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Katha meetha petha \/ halwakadoo",
+  "description": "Pumpkin cooked in spices",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Kheer",
+  "description": "Rice cooked with milk and dry fruits",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Khichdi",
+  "description": "Rice cooked with daal and veggies and sauteed",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Kofta",
+  "description": "Gram flour balls fried with vegetables. Gram flour, veggies, rolled into balls with gram flour and fried in oil and then cooked with curry.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Kulfi falooda",
+  "description": "A dessert",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Lauki ke kofte",
+  "description": "Bottle gourd",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Lauki ki subji",
+  "description": "Bottle gourd",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Litti chokha",
+  "description": "A baked salted wheat flour cake filled with sattu (baked chickpea flour) and some special spices",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Makki di roti, sarson da saag",
+  "description": "Punjabi speciality",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Mathura ke pede",
+  "description": "Sort of a confection",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Methi saag, chaulai saab",
+  "description": "Veggie leaves sauteed in oil and garlic with little masalas. Cooked mostly in central part of India.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Misi roti",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Mixed vegetable",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Moong dal ka halwa",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Murgh musallam",
+  "description": "",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Mushroom do pyaza",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Mushroom matar",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Naan",
+  "description": "Tandoor-baked soft flatbread. Refined wheat flour.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Navrattan korma",
+  "description": "",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Pakhala",
+  "description": "Cooked rice with water",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Palak paneer",
+  "description": "Paneer cubes in spinach gravy",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Paneer butter masala",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Paneer tikka masala",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Pani puri",
+  "description": "Typical north Indian tadka",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Panjeeri",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Paratha",
+  "description": "Bread. Wheat flour. Can be stuffed. Common stuffings: potato mixture, paneer, muli(white radish).",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Pattor",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Phirni",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Pindi chana",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Pinni",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Rajma chaval",
+  "description": "Bean curry with rice",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Rajma",
+  "description": "Main. Kidney beans & assorted spices.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Ramatori subji",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Rongi",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Samosa",
+  "description": "Normally served as an entree or appetiser. Potatoes, onions, peas, coriander, and lentils, may be served with a mint or tamarind sauce",
+  "veg non-veg": "Vegetarian\/meat varieties",
+  "cuisine": "north india"
+}, {
+  "name": "Samose",
+  "description": "Typical north Indian tadka",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Sattu ki roti",
+  "description": "Dish from Bihar",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Shahi paneer",
+  "description": "A popular Indian, as well as Punjabi and Nepalese dish, made with paneer in a thick cream and tomato gravy and spices",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Shahi tukra",
+  "description": "Bread pudding in a rich sauce of thickened milk, garnished with sliced almonds",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Singhada halwa",
+  "description": "Lotus fruit dried and powdered to make this fasting sweet meat",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Sooji halwa",
+  "description": "Semolina cooked with clarified butter and dry fruits. Semolina (Suji), clarified butter, cashew nuts.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Sweet pethas \/ kesar petha \/ pista petha",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Vegetable jalfrezi",
+  "description": "",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Tandoori Chicken",
+  "description": "Tandoori chicken as a dish originated in the Punjab before the independence of India and Pakistan.",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "north india"
+}, {
+  "name": "Tandoori Fish Tikka",
+  "description": "Fish marinated in lime and ginger and cooked over an open fire.",
+  "veg non-veg": "",
+  "cuisine": "north india"
+}, {
+  "name": "Appam",
+  "description": "Pancake, thicker at center. Ground rice.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Avial",
+  "description": "Coconut paste, curd mixed with vegetables and some spices.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Bajji",
+  "description": "Vegetable or onion fritters",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Biryani",
+  "description": "Spicy rice dish with vegetables or chicken or mutton or fish or prawns.",
+  "veg non-veg": "Depends on choice",
+  "cuisine": "south india"
+}, {
+  "name": "Bisi bele bath",
+  "description": "Rice preparation with vegetables.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Bonda",
+  "description": "Snack. Potatoes, gram flour.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Chicken 65",
+  "description": "Popular deep fried chicken preparation. Chicken, onion, ginger",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Currivepillai sadam",
+  "description": "Curry leaves rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Dosa",
+  "description": "Pancake\/Hopper. Ground rice, urad dal",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Double ka meetha",
+  "description": "Bread crumbs fried in Ghee and dipped in milk and sugar syrup",
+  "veg non-veg": "Sweet",
+  "cuisine": "south india"
+}, {
+  "name": "Goli bajje",
+  "description": "Snack. Gram flour.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Idiappam",
+  "description": "Steamed rice noodles \/ vermicelli. Ground rice",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Idli",
+  "description": "Steamed cake of fermented rice and pulse flour. Rice, urad dal",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Indian omelette",
+  "description": "Egg omelette or veg omelette",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Kaara kozhambu",
+  "description": "Dish used with rice made of chilli powder and tamarind",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Keerai kootu",
+  "description": "Green leaves kootu",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Keerai masiyal",
+  "description": "Ground green leaves used as a side dish for rice or mixed with rice.",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Keerai sadam",
+  "description": "Rice and green leaves",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Koottu",
+  "description": "Vegetable, daal or lentil mixture boiled in water",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Kos kootu",
+  "description": "Cabbage and lentil dish used for rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Kothamali sadam",
+  "description": "Coriander rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Kuzhakkattai",
+  "description": "Dumplings. Rice flour, jaggery, coconut",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Kuzhambu",
+  "description": "Thick soup with coconut and vegetables",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Masala Dosa",
+  "description": "Dosa with masala and potato.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Olan (dish)",
+  "description": "Light and subtle-flavored Kerala dish prepared from white gourd, ash-gourd or black-eyed peas, coconut milk and ginger seasoned with coconut oil.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Pachadi",
+  "description": "Side dish made with yoghurt, coconut, ginger and curry leaves and seasoned with mustard.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Parotta",
+  "description": "Layered kerala parotta made with maida and dalda.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Paruppu sadam",
+  "description": "Daal rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Payasam",
+  "description": "Rice dessert. Rice, milk.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Pongal",
+  "description": "Pulao",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Poriyal",
+  "description": "Side dish for rice prepared from one or more vegetables with little oil stirred, with daal half boiled and coconut \/ mustard seeds.",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Puli sadam",
+  "description": "Tamarind rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Puttu",
+  "description": "Ground rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Kanji",
+  "description": "Rice porridge",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Rasam (dish)",
+  "description": "A spicy and sour soup usually made with tamarind, tomatoes, pepper and other south Indian spices. Usually eaten with rice. It is a good starter for any south Indian meal. It is known to aid good digestion",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Sakkara pongal",
+  "description": "Sweet rice dish",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Sajjige",
+  "description": "Sweet dish",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Sambar",
+  "description": "Lentil soup cooked with vegetables and a blend of south Indian spices (masala). Usually taken with rice, idli, dosa, pongal or upma.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Sevai",
+  "description": "Kind of rice vermicelli used for breakfast",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Sevai lunch",
+  "description": "Kind of rice vermicelli mixed with either tamarind or lemon or coconut.",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Theeyal",
+  "description": "Kerala dish made from a mixture of spices consisting of roasted coconut, coriander seeds, tamarind water, dried red chili and fenugreek. Looks like a rich medium brown gravy and normally served with rice.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Thayir sadam, mosaranna",
+  "description": "Curd rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Thengai sadam",
+  "description": "Coconut rice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Uttapam",
+  "description": "Rice pancake \/ hopper with a topping of onions \/ tomatoes \/ coconut",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Vada",
+  "description": "Savory donut. Urad dal.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Varuval",
+  "description": "Vegetables fried in shallow oil",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Yelumincham sadam, chitranna",
+  "description": "Rice, lemon juice",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Keerai poriyal",
+  "description": "Green leaves mixed with daal and coconut with little oil",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Wheat upma",
+  "description": "A breakfast dish and snack. Upma prepared from wheat dhalia rava.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Koshambri",
+  "description": "A cucumber salad dish popular in Karnataka. Prepared during festivals.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Obbattu (holige, bobbattu, pooran-poli)",
+  "description": "A stuffed (moong gram dal and jaggery or coconut poornam) paratha. Dish native to South and West India in the states of (Karnataka, Andhra Pradesh and Maharashtra",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Ennai kathirikkai",
+  "description": "Ennai Kathirikkai",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Ragi mudhe",
+  "description": "",
+  "veg non-veg": "",
+  "cuisine": "south india"
+}, {
+  "name": "Pesarattu",
+  "description": "Dosa (pancake or crepe) of Andhra Pradesh made from moong dal (lentils), grains and spice batter.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Nandu omelette",
+  "description": "Omelette with pieces of crab and spices",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Paniyaram",
+  "description": "Dish made of rice flour and black gram",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Chettinadu Chicken",
+  "description": "Dish made chicken and spices",
+  "veg non-veg": "Non-Vegetarian",
+  "cuisine": "south india"
+}, {
+  "name": "Amti",
+  "description": "Lentil curry. Split lentil.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Bajri no rotlo",
+  "description": "Bread. Thick millet flour flatbread usually grilled over coals.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Barfi",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Basundi",
+  "description": "Sweet made from milk by continuous heating to a point before condencing.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Bhakri",
+  "description": "Bread. Whole wheat flour, thicker than rotli, crispy.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Bombil fry",
+  "description": "Main Course. Bombay Duck (Fish).",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Chaat",
+  "description": "Snack",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Chakri (chakali)",
+  "description": "Savoury snack. Mixed grain flour.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Chevdo",
+  "description": "Mixture. Flattened rice, groundnut, chana, masala.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Cholafali",
+  "description": "Snack",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Chorafali",
+  "description": "Spicy. Grinding of charudala, masala, sprinkle with red chilly powder on top.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Copra paak",
+  "description": "Sweet coconut halwa\/barfi: Halwa is soft, barfi more like cake.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Daal Dhokli",
+  "description": "Daal Dhokli is widely cooked and eaten all over Rajasthan and Gujarat. Very small dumplings of wheat flour are cooked along with green gram and whole red chili and red musturd is used as tempering.",
+  "veg non-veg": "Vegetrain",
+  "cuisine": "west india"
+}, {
+  "name": "Dahi vada",
+  "description": "Fried lentil balls in a yogurt sauce. Lentils, yogurt.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Dalithoy",
+  "description": "Soup made with split yellow lentils.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Dhokla",
+  "description": "Lentil snack. Gram.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Doodhpak",
+  "description": "Sweet A milk-based sweet dessert with nuts",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Dudhi no halwo",
+  "description": "Sweet. Bottle gourd halwa",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Dum aaloo",
+  "description": "Veg. Main dish. Potatoes deep fry, yogurt, coriander powder, ginger powder.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Pohe",
+  "description": "Snack. Flattened rice",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Gajar halwo",
+  "description": "Sweet. Carrot Halwa",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Gatta curry",
+  "description": "Curry. Steamed dumplings made from chickpea flour cooked in a spiced yoghurt sauce.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Ghari (sweet from Surat)",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Ghooghra",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Gud papdi (Gol papdi)",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Gulab jamun",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Halvasan",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Handwo (steamed dish)",
+  "description": "Snack",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Gur",
+  "description": "Sweet unrefined brown sugar sold in blocks[3].",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Jalebi",
+  "description": "Sweet maida & grained semolina flour, baking powder, curd, sugar.",
+  "veg non-veg": "Sweet",
+  "cuisine": "west india"
+}, {
+  "name": "Jeera Aloo",
+  "description": "Typical West Indian dish",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "west india"
+}, {
+  "name": "Juvar no rotlo",
+  "description": "Bread. Thick sorghum flatbread.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Kansar",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Keri no ras",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Khakhra",
+  "description": "Snack. Wheat flour, methi.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Khandvi",
+  "description": "Snack. Besan.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Kombdi vade",
+  "description": "Chicken Curry with Bread. Chicken.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Koshimbir",
+  "description": "Salad. Salad\/side-dish.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Laapsi",
+  "description": "Sweet coarse ground\/ broken wheat cooked with butter and sugar.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Laddu",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Locha",
+  "description": "Spicy. Grinding of chanadal, masala.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Malpua",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Methi na Gota",
+  "description": "Snack. Fried fenugreek dumplings.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Modak",
+  "description": "Sweet coconut dumplings. Rice flour, coconut.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Mohanthal",
+  "description": "a sweet prepared from gram flour and ghee dry fruits",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Muthiya",
+  "description": "Snack. Whole wheat flour, methi leaves, besan\/chickpeas flour and coriander leaves\/cilantro.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Oondees",
+  "description": "Breakfast delicacy. Spherical shaped rice or semolina about four inches (10\u00a0cm) in diameter.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Panipuri",
+  "description": "Snack",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Patra",
+  "description": "Snack. Taro leaves, coconut, seeds, dal.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Pav Bhaji",
+  "description": "Veg main dish. Mix curry of onion, capsicum, peas, cauliflower potatoes.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Penda",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Pooran-poli",
+  "description": "Sweet stuffed bread. Wheat flour, gram.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Puri",
+  "description": "Bread. Wheat flour.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Puri Bhaji",
+  "description": "Breakfast or Snack",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Rasya muthia",
+  "description": "Snack. A spicy yogurt dumpling soup.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sabudana Khichadi",
+  "description": "Vegetarian Snack. Sago.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sev khamani",
+  "description": "Snack. Chana dal, green chillies, ginger, lemon juice and olive oil.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sev tameta",
+  "description": "Veggie. Potatoes and sev.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Shakarpara",
+  "description": "Snack. A deep fried snack made out of sugar and wheat.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Namakpara",
+  "description": "Snack. A deep fried snack made out of salt and Gram Flour .",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Shankarpali",
+  "description": "Sweet or savoury snack. Plain flour, sugar.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Shiro",
+  "description": "Sweet roasted semolina\/flour\/dal with milk, butter, sugar, nuts and raisins.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Shrikhand",
+  "description": "Sweet A thick yogurt-based sweet dessert garnished with ground nuts, cardamom, and saffron.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sohan papdi",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Soonvali",
+  "description": "Snack",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sukhdi",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Surnoli",
+  "description": "Pancakes that have holes are yellow and puffy. They are about 10 inches (25 centimeters) in diameter and often served with butter.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Sutarfeni",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Thalipeeth",
+  "description": "Savoury pancake. Mixed grain flour.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Undhiyu",
+  "description": "Mix veggi. Plantain, brinjal, carrot, green chillies, potatoes, fresh coconut and other vegetable.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Upmaa",
+  "description": "Vegetarian snack. Semolina.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Vada pav",
+  "description": "Burger. Gram flour, potatoes, chilli, garlic, ginger.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Veg Kolhapuri",
+  "description": "Vegetarian dish. Mixed vegetables.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Vindaloo",
+  "description": "Goan pork vindaloo. Pork, goan red chilli paste.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Ghebar or Ghevar",
+  "description": "Sweet from Surat",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Lilva Kachori",
+  "description": "Snack. Lilva and whole wheat flour.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Maghaz",
+  "description": "",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Undhiyu",
+  "description": "The signature gujarati dish generally made in winters wherein a curry is prepared by mixing various types of vegetables like surti papdi, ratalu, potatoes, carrot, green garlic, tuvar dana, waal dana etc. rich in oil and spices generally accompanied by puri or roti.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Mag Dhokli",
+  "description": "It is indian form of lasagna wherein we use lentils and fresh dough with indian spices, it is dry and not liquidy like daal dhokli.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Khichu",
+  "description": "It is made by boiling the rice flour in water with seasoning, subtle in taste and accompanied by oil and methi masala.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Thepla",
+  "description": "A signature gujarati snack which is a parantha with seasoning and flavour blast, made from wheat flour, this dish is generally accompanied by condiments like pickles, green chillies, etc. It is also known as Dhebra, Chopda etc. in various regions.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Farsi Puri",
+  "description": "It is a gujarati snack which is also known as mathri in other regions of india, it generally made from wheat flour, all purpose flour etc.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Khaman",
+  "description": "Made by steaming gram flour batter with flavorful seasoning accompanied with chutney.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Turiya Patra Vatana sabji",
+  "description": "A vegetable curry made generally in winters.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Mohan thaal",
+  "description": "A sweet dish.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Churma Ladoo",
+  "description": "A sweet dish made with wheat flour, ghee, sugar or jaggery and dryfruits.",
+  "veg non-veg": "",
+  "cuisine": "west india"
+}, {
+  "name": "Cheera Doi",
+  "description": "Breakfast cereal.",
+  "veg non-veg": "Vegetarian",
+  "cuisine": "east india"
+}, {
+  "name": "Dhup Pitha",
+  "description": "A sweet Assamese specialty",
+  "veg non-veg": "Sweet",
+  "cuisine": "east india"
+}, {
+  "name": "Gheela Pitha",
+  "description": "Sweet Assamese specialty",
+  "veg non-veg": "Sweet",
+  "cuisine": "east india"
+}, {
+  "name": "Hurum",
+  "description": "Breakfast cereal; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Khar",
+  "description": "Assamese specialty side dish: papaya, banana, soda",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Kumol Sawul",
+  "description": "Breakfast cereal; an Assamese specialty. Soft rice with cream & jaggery.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Loskora (Coconut Laddu)",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Luchi",
+  "description": "Puffed bread, fried in oil, made from flour. A Bengali specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Malpua\/Malpoa",
+  "description": "Sweet Snacks. Specially in Bengal.",
+  "veg non-veg": "Sweet",
+  "cuisine": "east india"
+}, {
+  "name": "Momo",
+  "description": "Originally from Tibet, it is a popular snack\/ food item in India.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Muri Naaru",
+  "description": "Sweet Bengali specialty.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Pani Tenga",
+  "description": "Pickle made from mustard.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Sunga Pitha",
+  "description": "Sweet Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Alu Pitika",
+  "description": "Dish made of mashed potato.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Masor tenga",
+  "description": "An Assamese fish stew cooked with any of a variety of sour fruits including tomatoes.[2]",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Bengena Pitika",
+  "description": "Dish made of mashed brinjal.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Bilahi Maas",
+  "description": "Fish curry cooked with tomatoes.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Black rice",
+  "description": "Special local variety of rice",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Bora Sawul",
+  "description": "Breakfast cereal; an Assamese specialty. Sticky rice, sugar or jaggery.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Brown Rice",
+  "description": "Special local variety of rice.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Chhenagaja",
+  "description": "Odia Dessert. Cottage cheese, flour, sugar syrup.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Chhenapoda",
+  "description": "Dessert. Cottage cheese, flour, sugar syrup. Oriya Specialty.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Chingri malai curry",
+  "description": "Curry. Prawn, coconut, mustard, steamed. Traditional Bengali Dish.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Dal",
+  "description": "Lentils.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Goja",
+  "description": "Sweet. Bengali Specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Hando Guri",
+  "description": "Breakfast cereal; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Haq Maas",
+  "description": "Fish curry cooked with leafy green vegetables.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Horioh Maas",
+  "description": "Golden Mustard Fish Curry.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Ilish or Chingri Bhape",
+  "description": "Curry. Ilish (Hilsha fish) or prawn, coconut, mustard, steamed. Traditional Bengali Dish.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Kabiraji",
+  "description": "A popular non-vegetarian Indian dish in eastern India prepared using chicken and fish",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Kharoli",
+  "description": "Pickle made from mustard; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Khorisa",
+  "description": "Pickle made from bamboo shoot; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Koldil Chicken",
+  "description": "Chicken cooked with banana flower; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Koldil Duck",
+  "description": "Duck meat cooked with banana flower; an Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Konir Dom",
+  "description": "Egg curry.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Lai Haq Maas",
+  "description": "Fish Curry with herbs & lemon.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Litti",
+  "description": "Balls of wheat and sattu baked in oven and served with mashed potatoes (chokha)",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Maasor Tenga",
+  "description": "Tomato Fish Curry.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Machher Jhol",
+  "description": "Curry. Fish, various spices.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Masor Koni",
+  "description": "Fish delicacy.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Masor Petu",
+  "description": "Fish delicacy.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Mishti Chholar Dal",
+  "description": "Curry. Bengal gram, coconut, sugar. Bengali Specialty.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Mishti Doi",
+  "description": "Dessert. Curd, sugar syrup and \/or jaggery. Bengali Sweet curd.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Ou tenga Maas",
+  "description": "Fish curry cooked with elephant apple.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Pakhala",
+  "description": "Rice. Fermented rice, yoghurt, salt, seasonings.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Bhaji",
+  "description": "Fried Vegetables.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Pani Pitha",
+  "description": "Sweet Assamese specialty",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Pantua",
+  "description": "Assamese sweet similar to Gulab Jamun",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Payokh",
+  "description": "Dessert",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Peda",
+  "description": "Sweet",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Prawn malai curry",
+  "description": "Curry. Prawns, coconut cream, crushed mustard seed, red chillies. Bengali dish.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Red Rice",
+  "description": "Special local variety of rice.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Rice",
+  "description": "Staple Food.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Rosgulla",
+  "description": "Dessert. Cottage cheese, flour and sugar syrup. Signature Bengali condiment, originating in odisha",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Sabzi (curry)",
+  "description": "Different green or other vegetables.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Shondesh",
+  "description": "Dessert. Milk, sugar. Signature Bengali Dish",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Shukto",
+  "description": "A Bengali cuisine. Diced potaotes, sweet potatoes, broad beans, eggplant, drumsticks, raw bananas, radish cooked together and sauted with musturd seeds. This culinary cooked in musturd oil and sometimes shredded cocunut can also be used.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Sunga Pork",
+  "description": "Rich spicy pork curry",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Tenga Doi",
+  "description": "Sour curd",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}, {
+  "name": "Til Pitha",
+  "description": "Sweet Assamese specialty. Rice powder, til, jaggery.",
+  "veg non-veg": "",
+  "cuisine": "east india"
+}]
