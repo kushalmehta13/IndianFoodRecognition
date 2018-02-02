@@ -15,8 +15,7 @@ import numpy.random as rng
 import os
 
 
-# path = 'C:/Users/Anonymous/Desktop/flower_photos'
-path = '/home/unagi/IndianFoodRecognition/oneShotLearning/Data'
+path = '/home/unagi/IndianFoodRecognition/oneShotLearning/Dataset/Food Images/Train'
 predCSV = '/home/unagi/IndianFoodRecognition/oneShotLearning//predictions.csv'
 
 def W_init(shape, name=None):
@@ -51,12 +50,7 @@ encoding_left = model(left_input)
 encoding_right = model(right_input)
 
 distance = lambda x : K.abs((x[0] ** 2) - (x[1] ** 2))
-# merged_vector = Lambda(lambda x : K.abs((x[0] ** 2) - (x[1] ** 2)))([encoding_left,encoding_right])
 merged_vector = merge(inputs=[encoding_left, encoding_right], mode=distance, output_shape=lambda x: x[0])
-# encoding_left_squared = Multiply()([encoding_left,encoding_left])
-# encoding_right_squared = Multiply()([encoding_right,encoding_right])
-# encoding_subtracted = Subtract()([encoding_left_squared,encoding_right_squared])
-# merged_vector = K.abs(encoding_subtracted)
 predict_layer = Dense(1, name='main_output')(merged_vector)
 siamese_network = Model(inputs=[left_input, right_input], outputs=predict_layer)
 optimizer = Adam(0.00006)
@@ -76,12 +70,3 @@ with open("model.json", "w") as json_file:
 # serialize weights to HDF5
 siamese_network.save_weights("model.h5")
 print("Saved model to disk")
-
-json_file = open('model.json', 'r')
-loaded_model_json = json_file.read()
-json_file.close()
-loaded_model = model_from_json(loaded_model_json)
-# load weights into new model
-loaded_model.load_weights("model.h5")
-print("Loaded model from disk")
-loaded_model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
